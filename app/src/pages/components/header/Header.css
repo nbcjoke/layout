@@ -1,0 +1,56 @@
+.header__inner {
+  height: 95px;
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  padding: 35px 150px 35px 110px;
+}
+
+.menu__list {
+  display: flex;
+  padding: 0;
+}
+
+.menu__list-item {
+  margin-right: 35px;
+  list-style-type: none;
+}
+
+.menu__list-link {
+  line-height: 18px;
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+}
+
+.logo {
+  margin: 0 auto;
+}
+
+.login {
+  padding: 48px 35px 26px 210px;
+}
+
+.login-link {
+  line-height: 18px;
+  text-decoration: none;
+  color: #6f1eaa;
+  font-family: "Roboto", sans-serif;
+}
+
+.header__btn {
+  background-color: #6f1eaa;
+  border: none;
+  border-radius: 19px;
+  padding: 10px 38px;
+  cursor: pointer;
+  color: #ffffff;
+  margin: 40px 150px 15px 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
