@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/layout/static/css/main.31ea1d9b.css",
+    "main.js": "/layout/static/js/main.d309f3e5.js",
+    "static/media/support.png": "/layout/static/media/support.297d96662ebf3a41596a.png",
+    "static/media/wrapper-info.png": "/layout/static/media/wrapper-info.4352607b710b45623ced.png",
+    "static/media/mix.png": "/layout/static/media/mix.36dad1e261b637383477.png",
+    "static/media/instagram.svg": "/layout/static/media/instagram.e1b8ee21e6ed8e7a497f1703e799d94d.svg",
+    "static/media/small-dog.png": "/layout/static/media/small-dog.e2154dcfb3847fc38005.png",
+    "static/media/wild.png": "/layout/static/media/wild.88717e86dde84ab92d33.png",
+    "static/media/dolmatinets.png": "/layout/static/media/dolmatinets.e2736581d20bb41b09d7.png",
+    "static/media/dog.png": "/layout/static/media/dog.a59e0526b15174d79c28.png",
+    "static/media/dogg.png": "/layout/static/media/dogg.c66292d798146aa48450.png",
+    "static/media/rabbit.png": "/layout/static/media/rabbit.6620a2e923fe440b080c.png",
+    "static/media/parrot.png": "/layout/static/media/parrot.17136083b28adacf4b08.png",
+    "static/media/logo.svg": "/layout/static/media/logo.0bb0bb9ca43b9b6c442bcc9220c7c959.svg",
+    "static/media/xz.svg": "/layout/static/media/xz.59d546b00a5e329f2351c23d724db4a5.svg",
+    "static/media/insta.svg": "/layout/static/media/insta.feeca916a49d1c76c08ba30415ce7289.svg",
+    "static/media/google.svg": "/layout/static/media/google.54f8240e55d1c32968d8887ab7fbaee8.svg",
+    "static/media/twitter.svg": "/layout/static/media/twitter.846db793ac6cac826dca6810e94c13c7.svg",
+    "index.html": "/layout/index.html",
+    "static/media/facebook.svg": "/layout/static/media/facebook.ed18d89d405187124904f6c0a1bdea6d.svg",
+    "main.31ea1d9b.css.map": "/layout/static/css/main.31ea1d9b.css.map",
+    "main.d309f3e5.js.map": "/layout/static/js/main.d309f3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ea1d9b.css",
+    "static/js/main.d309f3e5.js"
+  ]
+}
