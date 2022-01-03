@@ -1,6 +1,6 @@
 import './InfoSupport.css';
 
-import dolmatinets from '../../../static/dolmatinets.png';
+import dolmatinets from '../../../../static/dolmatinets.png';
 
 export function InfoSupport() {
   return (

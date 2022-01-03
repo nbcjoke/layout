@@ -1,6 +1,6 @@
 import './Support.css';
 
-import support from '../../../static/support.png';
+import support from '../../../../static/support.png';
 
 export function Support() {
   return (

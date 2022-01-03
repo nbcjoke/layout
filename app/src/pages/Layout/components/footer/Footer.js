@@ -1,15 +1,15 @@
 import './Footer.css';
 
-import alliance from '../../../static/alliance.png';
-import aca from '../../../static/aca.png';
-import corporate from '../../../static/corporate.png';
-import pcca from '../../../static/pcca.png';
-import mixlab from '../../../static/mixlab.png';
-import insta from '../../../static/insta.svg';
-import facebook from '../../../static/facebook.svg';
-import twitter from '../../../static/twitter.svg';
-import xz from '../../../static/xz.svg';
-import google from '../../../static/google.svg';
+import alliance from '../../../../static/alliance.png';
+import aca from '../../../../static/aca.png';
+import corporate from '../../../../static/corporate.png';
+import pcca from '../../../../static/pcca.png';
+import mixlab from '../../../../static/mixlab.png';
+import insta from '../../../../static/insta.svg';
+import facebook from '../../../../static/facebook.svg';
+import twitter from '../../../../static/twitter.svg';
+import xz from '../../../../static/xz.svg';
+import google from '../../../../static/google.svg';
 
 export function Footer() {
   return (

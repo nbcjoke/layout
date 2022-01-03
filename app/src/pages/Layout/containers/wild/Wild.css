@@ -1,5 +1,5 @@
 .wrapper__wild {
-  background-image: url("../../../static/wild.png");
+  background-image: url("../../../../static/wild.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -95,4 +95,9 @@
   color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
+}
+
+.wild-img {
+  width: 100%;
+  height: 100%;
 }

@@ -1,6 +1,6 @@
 import './Header.css';
 
-import logo from '../../../static/logo.svg';
+import logo from '../../../../static/logo.svg';
 
 export function Header() {
   return (

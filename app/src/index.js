@@ -1,28 +1,18 @@
-import React from 'react';
+import { StrictMode } from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from "react-router-dom";
 
-import {Header} from './pages/components/header';
-import {Footer} from './pages/components/footer';
-import {Info} from './pages/containers/info';
-import {InfoSupport} from './pages/containers/infoSupport';
-import {HowItWorks} from './pages/containers/howItWorks';
-import {Support} from './pages/containers/support';
-import {PetsLove} from './pages/containers/petsLove';
-import {Wild} from './pages/containers/wild';
+import { Router } from "./router/routes" 
 
 import App from './App.css'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Header />
-    <Info />
-    <InfoSupport />
-    <HowItWorks />
-    <Support />
-    <PetsLove />
-    <Wild />
-    <Footer />
-  </React.StrictMode>,
+  <StrictMode>
+    <BrowserRouter>
+    <Router />
+    </BrowserRouter>
+  </StrictMode>,
   document.getElementById('root')
 );
+
 

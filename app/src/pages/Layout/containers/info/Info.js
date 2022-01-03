@@ -1,6 +1,6 @@
 import './Info.css';
 
-import wrapperinfo from '../../../static/wrapper-info.png';
+import wrapperinfo from '../../../../static/wrapper-info.png';
 
 export function Info() {
   return (

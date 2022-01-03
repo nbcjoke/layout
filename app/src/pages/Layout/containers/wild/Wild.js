@@ -1,8 +1,8 @@
 import './Wild.css';
 
-import dogg from '../../../static/dogg.png';
-import mix from '../../../static/mix.png';
-import wild from '../../../static/wild.png';
+import dogg from '../../../../static/dogg.png';
+import mix from '../../../../static/mix.png';
+import wild from '../../../../static/wild.png';
 
 export function Wild() {
   return (

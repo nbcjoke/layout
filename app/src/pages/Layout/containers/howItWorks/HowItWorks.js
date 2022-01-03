@@ -1,8 +1,8 @@
 import './HowItWorks.css';
 
-import parrot from '../../../static/parrot.png';
-import rabbit from '../../../static/rabbit.png';
-import dog from '../../../static/dog.png';
+import parrot from '../../../../static/parrot.png';
+import rabbit from '../../../../static/rabbit.png';
+import dog from '../../../../static/dog.png';
 
 export function HowItWorks() {
   return (
