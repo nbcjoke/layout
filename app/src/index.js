@@ -1,6 +1,6 @@
 import { StrictMode } from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 import { Router } from "./router/routes" 
 
@@ -8,9 +8,9 @@ import App from './App.css'
 
 ReactDOM.render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
     <Router />
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>,
   document.getElementById('root')
 );
