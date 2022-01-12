@@ -1,6 +1,7 @@
 import './Header.css';
 
 import logo from '../../../../static/logo.svg';
+import menu from '../../../../static/menu.svg';
 
 export function Header() {
   return (
@@ -25,6 +26,11 @@ export function Header() {
                 </li>
               </ul>
             </nav>
+            <div className="menu-block">
+              <a className="menu-img" href="#">
+                <img src={menu} alt="menu"></img>
+              </a>
+            </div>
             <a className="logo" href="#">
             <img src={logo} alt="logo"></img>
             </a>

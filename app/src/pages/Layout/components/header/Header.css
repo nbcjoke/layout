@@ -15,6 +15,10 @@
   padding: 0;
 }
 
+.menu-block {
+  display: none;
+}
+
 .menu__list-item {
   margin-right: 35px;
   list-style-type: none;
@@ -53,4 +57,72 @@
   margin: 40px 150px 15px 0;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1700px) {
+  .menu {
+    padding: 30px 60px 30px 30px;
+  }
+
+  .menu__list-item {
+    margin-right: 25px;
+  }
+
+  .login {
+    padding: 48px 30px 26px 60px;
+  }
+
+  .header__btn {
+    margin: 40px 30px 15px 0;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 1279px) {
+  .menu-block {
+    display: block;
+    margin-left: 30px;
+    margin-top: 16px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .header__btn {
+    margin: 40px 30px 15px 0;
+  }
+
+  .logo {
+    margin-left: 30px;
+    margin-top: 9px;
+  }
+
+  .login {
+    padding: 48px 35px 26px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 639px) {
+  .menu-block {
+    display: block;
+    margin-left: 15px;
+    margin-top: 16px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .header__btn {
+    display: none;
+  }
+
+  .logo {
+    margin-left: 15px;
+    margin-top: 7px;
+  }
+
+  .login {
+    padding: 48px 15px 26px;
+  }
 }

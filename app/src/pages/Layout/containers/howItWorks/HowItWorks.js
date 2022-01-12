@@ -13,7 +13,7 @@ export function HowItWorks() {
             <div className="howItWorks">
               <div className="howItWorks__wrapper">
               <div className="howItWorks-image">
-                <img src={parrot} alt="parrot"></img>
+                <img className="howItWorks-img" src={parrot} alt="parrot"></img>
               </div>
               <div className="howItWorks-title">
                 We receive your prescription
@@ -25,7 +25,7 @@ export function HowItWorks() {
             </div>
             <div className="howItWorks__wrapper">
               <div className="howItWorks-image">
-                <img src={rabbit} alt="rabbit"></img>
+                <img className="howItWorks-img"src={rabbit} alt="rabbit"></img>
               </div>
               <div className="howItWorks-title">
                 We deliver your care package
@@ -36,7 +36,7 @@ export function HowItWorks() {
             </div>
             <div className="howItWorks__wrapper">
               <div className="howItWorks-image">
-                <img src={dog} alt="dog"></img>
+                <img className="howItWorks-img" src={dog} alt="dog"></img>
               </div>
               <div className="howItWorks-title">
                 You treat your pet
